@@ -4,6 +4,7 @@
     font-size: 34px;
     margin-left: 10px;
     text-decoration: none;
+    color:black;
 }
 header {
     height: 70px;
@@ -54,13 +55,13 @@ header nav li a {
     padding-top:300px;
 }
 #main {
-   
+
     background-color: #f6f6f6;
     padding: 100px 0;
     width:100%;
 }
 #tovar {
-    
+
     width: 100%;
     background-image: url(avtokran-palfinger-sany.jpg);
     background-color: #616b73;
@@ -91,7 +92,7 @@ header nav li a {
         margin-right: 5%;
         margin-top: 50px;
         margin-bottom: 60px;
-        
+
 
     }
 #tovar .img {
@@ -126,7 +127,7 @@ header nav li a {
     padding:60px;
 }
 .footer {
-  
+
     background-color: #f6f6f6;
     padding: 100px 0;
     width: 100%;
