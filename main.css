@@ -4,6 +4,8 @@
     font-size: 34px;
     margin-left: 10px;
     text-decoration: none;
+    color:black;
+  
 }
 header {
     height: 70px;
@@ -126,9 +128,14 @@ header nav li a {
     padding:60px;
 }
 .footer {
-  
+    justify-content:space-around;
+    float:left;
+    display:flex;
     background-color: #f6f6f6;
-    padding: 100px 0;
     width: 100%;
     background: #fc3;
+    padding-bottom:40px;
+    padding-top:30px;
 }
+
+
